@@ -240,5 +240,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3e15813159a2a2a45bd00a63d6bd8411, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scoreManager: {fileID: 0}
   scoreToGive: 200
+  explosionParticle: {fileID: 9111612634661582274, guid: 99bf1ffa6cce7144998a1f11f3736fe9, type: 3}

@@ -409,3 +409,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   scoreToGive: 50
+  explosionParticle: {fileID: 9111612634661582274, guid: 99bf1ffa6cce7144998a1f11f3736fe9, type: 3}
